@@ -29,7 +29,7 @@ bond
         |
       ['H']
 ```
-<br>
+
 ```python
 bond('H2NOH')
 ```
@@ -57,7 +57,7 @@ bond
         |
       ['H']
 ```
-<br>
+
 ```python
 bond('CO2')
 ```
